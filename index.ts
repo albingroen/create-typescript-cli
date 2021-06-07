@@ -1,3 +1,3 @@
-export const main = () => {
-  console.log("main()");
-};
+export default function main() {
+  console.log('Done')
+}
