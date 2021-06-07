@@ -1,3 +1,3 @@
 export default function main() {
-  console.log('Done')
+  console.log('Done');
 }
