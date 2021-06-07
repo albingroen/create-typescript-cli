@@ -1,7 +1,7 @@
 {
-  "name": "create-typescript-cli",
+  "name": "typescript-cli-template",
   "version": "0.0.1",
-  "description": "Create a Typescript CLI with just one command",
+  "description": "A template for a Typescript CLI",
   "main": "dist/index.js",
   "author": "Albin Groen <albin.groen@gmail.com>",
   "license": "MIT",

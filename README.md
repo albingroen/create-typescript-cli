@@ -1,6 +1,6 @@
 # create-typescript-cli
 
-Create a Typescript CLI with just one command
+A template for a Typescript CLI
 
 ## Installation
 
