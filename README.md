@@ -1,4 +1,4 @@
-# create-typescript-cli
+# typescript-cli-template
 
 A template for a Typescript CLI
 
