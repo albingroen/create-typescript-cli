@@ -1,5 +1,5 @@
 {
-  "name": "typescript-cli",
+  "name": "create-typescript-cli",
   "version": "0.0.1",
   "main": "dist/index.js",
   "author": "Albin Groen <albin.groen@gmail.com>",
