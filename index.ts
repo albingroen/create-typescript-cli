@@ -1,6 +1,3 @@
-
-const main = () => {
-  console.log('Coolio')
-}
-
-main()
+export const main = () => {
+  console.log("main()");
+};
