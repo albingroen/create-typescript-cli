@@ -1,6 +1,6 @@
 # create-typescript-cli
 
-create-typescript-cli is a Typescript tool for creating a Typescript CLI
+Create a Typescript CLI with just one command
 
 ## Installation
 
